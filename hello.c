@@ -1,6 +1,6 @@
-#incude <stdio.h>
+#include <stdio.h>
 int main(void)
 {
-	printf("Hello World \r\n");
+	printf("Hello test");
 	return 0;
 }
